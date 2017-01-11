@@ -35,5 +35,17 @@ body {
 .justificado{
 	text-align: justify;
 }
-
-
+hr {
+      color: #CCAC00;
+      background-color: #CCAC00;
+      height: 1px;
+}
+.rodape{
+	background-color: #CCAC00;
+	margin-top: 40px;
+	color: #FFF;
+}
+.barra-ouro{
+	background-color: #CCAC00;
+	height: 3px;
+}
