@@ -20,7 +20,7 @@ body {
 }
 
 .navbar, .navbar.navbar-default {
-    background-color: #CCAC00;
+    background-color: rgba(204,172,0, 0.9);
  }
  a, a:hover, a:focus {
     color: #CCAC00;
