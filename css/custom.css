@@ -33,3 +33,6 @@ body {
 .nav-pills > li > a {
 	min-width: 180px;
 }
+.navbar-nav > li > a {
+    display: inline-block;
+}
