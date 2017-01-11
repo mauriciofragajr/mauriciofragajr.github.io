@@ -36,3 +36,6 @@ body {
 .navbar-nav > li > a {
     display: inline-block;
 }
+.nav>li>a {
+	display: inline-block;
+}
