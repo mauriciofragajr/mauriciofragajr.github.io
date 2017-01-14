@@ -49,3 +49,15 @@ hr {
 	background-color: #CCAC00;
 	height: 3px;
 }
+.cursor{
+	font-size: 30px;
+	display: inline-block;
+	margin: 0 10px;
+	color: #fff;
+	-webkit-animation-name: flash;
+	animation-name: flash;
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+}
